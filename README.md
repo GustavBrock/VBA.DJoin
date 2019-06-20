@@ -14,9 +14,9 @@ Areas for improvement and added flexibility:
 * A wider choice of source types - like pure SQL
 * Caching of results for vastly improved speed for repeated calls
 
-The function SpeedTest (from the attached demo below) reveals - for a large table of ~170,000 records having 424 keys - a speed improvement on the first run of about 25%. Repeated calls runs about 16 times faster - a dramatic speed increase:
+The function SpeedTest (from the attached demo below) reveals - for a large table of ~170,000 records having 424 keys - a speed improvement on the first run of about 25%. Repeated calls run about 16 times faster - a dramatic speed increase:
 
-![Help](https://raw.githubusercontent.com/GustavBrock/VBA.DJoin/master/images/SpeedTest.png)
+![Help](https://raw.githubusercontent.com/GustavBrock/VBA.DJoin/master/images/SpeedTest.PNG)
 
 ### Code ###
 Code has been tested with both 32-bit and 64-bit *Microsoft Access 2016* and *365*.
