@@ -2,7 +2,7 @@
 ![Help](https://raw.githubusercontent.com/GustavBrock/VBA.DJoin/master/images/EE%20Header.png)
 
 ### Join (concat) values from one field from a table or query  ###
-As you can union records, you can join field values. DJoin offers increased speed and flexibility compared to the ancient ConcactRelated and similar functions. Further, it offers better read-out of Multi-Value fields. 
+As you can union records, you can join field values. DJoin offers increased speed and flexibility compared to the ancient ConcatRelated and similar functions. Further, it offers better read-out of Multi-Value fields. 
 
 For decades, functions have been around to solve the simple task of joining (concatenating) the values from a single field of many records to a single field value - as illustrated by the title picture, where the values from two keys (left) are joined into one field for each key (right) with a delimiter (or separator), here a *space*.
 
