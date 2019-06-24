@@ -1,4 +1,4 @@
-Attribute VB_Name = "DomainAggreate"
+Attribute VB_Name = "DomainAggregate"
 Option Explicit
 
 ' Returns the joined (concatenated) values from a field of records having the same key.
@@ -40,7 +40,7 @@ Option Explicit
 ' Requires:
 '   CollectValues
 '
-' 2019-06-11, Cactus Data ApS, Gustav Brock
+' 2019-06-24, Cactus Data ApS, Gustav Brock
 '
 Public Function DJoin( _
     Optional ByVal Expression As String, _
@@ -61,11 +61,9 @@ Public Function DJoin( _
     Static Values   As New Collection
     
     Dim Records     As DAO.Recordset
-    Dim SubRecords  As DAO.Recordset
     Dim Sql         As String
     Dim SqlSub      As String
     Dim Filter      As String
-    Dim Value       As Variant
     Dim Result      As Variant
     
     On Error GoTo Err_DJoin
