@@ -26,6 +26,14 @@ Full documentation can be found here:
 
 ![EE Logo](https://raw.githubusercontent.com/GustavBrock/VBA.DJoin/master/images/EE%20Logo.png) 
 
-[Join (concat) values from one field from a table or query](https://www.experts-exchange.com/articles/33612/Join-concat-values-from-one-field-from-a-table-or-query.html)
+[Join (concat) values from one field from a table or query](https://www.experts-exchange.com/articles/33612/Join-concat-values-from-one-field-from-a-table-or-query.html?preview=pFMM6gI5Efc%3D)
 
 Included is a Microsoft Access example application.
+
+<hr>
+
+*If you wish to support my work or need extended support or advice, feel free to:*
+
+<p>
+
+[<img src="https://raw.githubusercontent.com/GustavBrock/VBA.DJoin/master/images/BuyMeACoffee.png">](https://www.buymeacoffee.com/gustav/)
